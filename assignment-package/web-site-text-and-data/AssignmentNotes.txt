@@ -1,0 +1,62 @@
+Assignement notes
+
+Design and develop a website for 'Cantor College' using HTML, CSS, JavaScript.
+
+The website can also include a connection to a backend database
+
+Client: College Dean
+
+Permitted to use ReactJS or NEXT.JS
+
+PAGES: 
+ - index
+    - content:
+        - About Us
+        - How to Find Us
+        - Computing Courses
+        - Design Courses
+        - Facilities
+        - Learning Resources
+        - Information for staff
+        - Working with Business
+        - Contact Us
+ - Course-list
+ - student page
+ - business page
+ - staff page
+ - learning resources page
+
+ from Course-list
+  - CourseTitle
+  - CourseType
+  - CourseSummary
+  - CourseAwardName
+  - UcasCode
+  - UcasPoint
+  - YearOfEntry
+  - ModelOfAttendance
+  - StudyLength
+  - HasFoundationYear
+  - CouseSubject
+  - NoLongerRecruiting
+
+
+
+  Example Template - University of Bristol
+
+  index:
+  - header:
+    - logo
+    - search
+    - menu
+        - home
+        - study at Bristol
+        - About
+        - schools and faculties
+        - research
+        - business & partnerships
+        - news
+        - people
+    - section 1 - find your programme
+    - section 2 - open events
+    

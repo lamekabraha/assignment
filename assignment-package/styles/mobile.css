@@ -1,0 +1,30 @@
+#bannerImg{
+    max-width: 100%;
+    height: auto;
+    padding:0;
+    margin:0;
+}
+body{
+    margin:0;
+    padding:0;
+}
+
+h1, h2, p{
+    padding: 0 10px;
+}
+
+form{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#menu{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.menu_elements{
+    flex:0;
+    background-color: yellow;
+}
